@@ -1,0 +1,5 @@
+commit 2e61c8e4b81d52fac7386013afe8921cac57e850
+Author: sean00023 <sean00023@yahoo.com.tw>
+Date:   Sun Jun 9 20:20:38 2019 +0800
+
+    first version, no layout config
